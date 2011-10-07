@@ -1,0 +1,30 @@
+/* Shared styles */
+
+
+/**
+* END CSS3 STYLES
+*/
+
+/**
+* START C5 replacement CSS
+*/
+
+#ccm-page-controls-wrapper {
+}
+
+#ccm-page-controls-wrapper ul li {
+	list-style-type:none;
+}
+
+.ccm-dialog-window-wrapper ul li {
+	list-style-type:none;
+}
+
+#ccm-page-controls-wrapper #ccm-page-detail {
+	line-height: 14px;
+	font-size:12px;
+}
+
+/**
+* END C5 replacement CSS
+*/
